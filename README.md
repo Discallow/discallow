@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![<dioalexa>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<dioalexa>)](https://github.com/oakoudad/badge42)
+[![dioalexa's 42 stats](https://badge.mediaplus.ma/greenbinary/dioalexa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **Discallow/discallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
