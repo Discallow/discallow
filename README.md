@@ -2,6 +2,14 @@
 
 [![dioalexa's 42 stats](https://badge.mediaplus.ma/greenbinary/dioalexa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+## About me
+
+I’m a student at 42 School Lisbon, where I focus on problem-solving, low-level programming, and building a strong foundation in computer science through hands-on projects.
+
+Alongside my studies, I’ve been working with Grafana, Loki, and Prometheus, gaining practical experience with monitoring, logging, and observability. This includes understanding metrics, logs, dashboards, and how to analyze system behavior in real-world environments.
+
+I enjoy games and puzzles, especially those that require logical thinking and optimization. I’m constantly learning, experimenting, and improving my skills, with a strong interest in understanding systems beyond the surface level.
+
 <!--
 **Discallow/discallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
